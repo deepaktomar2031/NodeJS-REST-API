@@ -1,7 +1,7 @@
 # NodeJS RESTfull API
 
 
-# Repo : https://github.com/tomar123/codemymobile
+# Repo : https://github.com/deepaktomar2031/NodeJS-REST-API
 ## Branch:
 - Main Branch - `master`
 
